@@ -6,3 +6,4 @@ reportlab
 streamlit-javascript
 faiss-cpu
 sentence-transformers
+torch
