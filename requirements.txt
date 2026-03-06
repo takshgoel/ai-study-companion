@@ -7,3 +7,4 @@ streamlit-javascript
 faiss-cpu
 sentence-transformers
 torch
+PyPDF2
